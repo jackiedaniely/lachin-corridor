@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "fragments points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "Shusha, Shusha District, 5800, Azerbaijan" }, "geometry": { "type": "Point", "coordinates": [ 46.741700859979673, 39.757971395579823 ] } },
+{ "type": "Feature", "properties": { "address": "Vang, Kalbajar District, Azerbaijan" }, "geometry": { "type": "Point", "coordinates": [ 46.2837048, 40.1598523 ] } },
+{ "type": "Feature", "properties": { "address": "Aşıq Alı küç., Kalbajar, Kalbajar District, 3200, Azerbaijan" }, "geometry": { "type": "Point", "coordinates": [ 46.03563120798708, 40.102675150575024 ] } },
+{ "type": "Feature", "properties": { "address": "Hadrut, Khojavend District, Azerbaijan" }, "geometry": { "type": "Point", "coordinates": [ 47.03014574012915, 39.519392458461624 ] } },
+{ "type": "Feature", "properties": { "address": "Garakand, Khojavend District, Azerbaijan" }, "geometry": { "type": "Point", "coordinates": [ 47.026805092958199, 39.846633311160218 ] } }
+]
+}
